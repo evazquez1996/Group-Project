@@ -4,20 +4,15 @@
 create table 
 <table>
 
-then the table head
    <thead>
-   
-then the table row columns 
-<tr>
-
-then the table headers
-<th>
-
-then you create the table body 
+       <tr> 
+           <th>Hello1</th>
+           <th>Hello 2</th>
+       </tr>
+  
 <tbody>
-
-then insert the rows
-<tr>
- then the table data
- <td>
- 
+     <tr> 
+        <td> Continue </td>
+     </tr>
+</tbody>
+<table>
