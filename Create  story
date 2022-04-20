@@ -1,2 +1,23 @@
 <p> how to create tables <p>
 <table> .....
+
+create table 
+<table>
+
+then the table head
+   <thead>
+   
+then the table row columns 
+<tr>
+
+then the table headers
+<th>
+
+then you create the table body 
+<tbody>
+
+then insert the rows
+<tr>
+ then the table data
+ <td>
+ 
